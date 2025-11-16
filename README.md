@@ -179,5 +179,6 @@ Year: 2015
 ---
 
 # **GitHub Repository Link**
-https://github.com/R8766/DSA_PROJECTS_RW/edit/main/README.md
+https://github.com/R8766/DSA_PROJECTS_RW
+
 
